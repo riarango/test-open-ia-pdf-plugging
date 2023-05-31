@@ -1,0 +1,10 @@
+Flask
+flask-restful
+numpy
+Pillow
+PyMuPDF
+scikit-learn
+tensorflow>=2.0.0
+tensorflow-hub
+urllib3
+Werkzeug
